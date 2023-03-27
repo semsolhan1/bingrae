@@ -1,0 +1,9 @@
+@import url(./Binggrae-Bold.otf);
+@font-face {
+    src: url("../bingrae/Binggrae-Bold.otf");
+    font-family: "Binggrae";
+}
+
+#Binggrae_font {
+    font-family: "Binggrae";
+}
